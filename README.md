@@ -28,23 +28,15 @@ The code can be run from within R and ImageJ/Macros.
 
 
 ## Contributing
-Nils Briel
-Viktoria C Ruf
-Paul Feyen
-Antonia Neubauer
-Sigrun Roeber
-Otto Windl
-Thomas Arzberger
-Guenter U Hoeglinger
-[Felix L Strübing](https://github.com/fstrueb)
-Jochen Herms
+Nils Briel, Viktoria C Ruf, Paul Feyen, Antonia Neubauer, Sigrun Roeber, Otto Windl, Thomas Arzberger, Guenter U Hoeglinger, [Felix L Strübing](https://github.com/fstrueb), Jochen Herms
 
-Main Affiliation:
+*Main Affiliation*: \
 Center for Neuropathology \
 German Center for Neurodegenerative Diseases, Translational Research \
 Ludwig-Maximilians-University \
+Germany
 
-Further Affiliations: \
+*Further Affiliations*: \
 Department of Neurology \
 University Hospital Munich \
 Germany
