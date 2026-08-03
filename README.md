@@ -9,7 +9,7 @@ This repository contains scripts and metadata of our human brain tissue study:
 
 Nils Briel<sup>1,2,3</sup>, Viktoria C. Ruf<sup>1</sup>, Paul Feyen<sup>1,4</sup>, Sigrun Roeber<sup>1</sup>, Thomas Arzberger<sup>1</sup>, Otto Windl<sup>1</sup>, Tobias Weiss<sup>2</sup>, Paolo Arosio<sup>3</sup>, Günter U. Höglinger<sup>4,5,6,7</sup>, Felix L. Struebing<sup>1,4</sup>, Jochen Herms<sup>1,4</sup>
 
-<sup>**1**</sup> Center for Neuropathology and Prion Research, Faculty of Medicine, LMU Munich, Munich, Germany  
+<sup>**1**</sup> Institute of Neuropathology, LMU Medizin, Ludwig-Maximilians-Universität (LMU) München, Munich, Germany  
 <sup>**2**</sup> Department of Neurology, Zurich Neuroscience Center, University Hospital and University of Zurich, Switzerland  
 <sup>**3**</sup> Department of Chemistry and Applied Biosciences, Swiss Federal Institute of Technology Zurich, Switzerland  
 <sup>**4**</sup> German Center for Neurodegenerative Diseases, Site Munich, Germany  
