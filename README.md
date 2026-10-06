@@ -4,7 +4,6 @@
 This repository contains scripts and metadata of our human brain tissue study:
 
 **Molecular Disease Stages of Oligodendrocytic and Neuronal Tau Burden in Progressive Supranuclear Palsy**. 
-*link TBD*
 
 
 Nils Briel<sup>1,2,3</sup>, Viktoria C. Ruf<sup>1</sup>, Paul Feyen<sup>1,4</sup>, Sigrun Roeber<sup>1</sup>, Thomas Arzberger<sup>1</sup>, Otto Windl<sup>1</sup>, Tobias Weiss<sup>2</sup>, Paolo Arosio<sup>3</sup>, Günter U. Höglinger<sup>4,5,6,7</sup>, Felix L. Struebing<sup>1,4</sup>, Jochen Herms<sup>1,4</sup>
@@ -26,9 +25,9 @@ Nils Briel<sup>1,2,3</sup>, Viktoria C. Ruf<sup>1</sup>, Paul Feyen<sup>1,4</sup
 ## Citation
 
 If you use parts of this workflow, please cite:
-- the preprint: TBD
+- the preprint: https://www.biorxiv.org/content/10.64898/2026.08.03.742447v1.abstract
 - the original article: TBD
-- This repository: https://github.com/nes-b/PSP_multiomics 
+- or this repository: https://github.com/nes-b/PSP_multiomics 
 
 
 ## Ethics statement
